@@ -92,6 +92,16 @@ Message and link scam classifier built with a Naive Bayes model, predicting scam
 
 ---
 
+🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AffanAhmad-240/AffanAhmad-240/output/github-contribution-grid-snake-dark.svg" />
+</p>
+> ⚙️ **One-time setup needed for the snake animation above** — GitHub doesn't generate this automatically. Steps:
+> 1. In your `AffanAhmad-240` repo, go to **Settings → Actions → General** → allow "Read and write permissions"
+> 2. Create a file `.github/workflows/snake.yml` and paste the standard [Platane/snk](https://github.com/Platane/snk) action config (I can generate this file for you if you want — just say so)
+> 3. Run the action once from the **Actions** tab — it'll auto-update daily after that
+---
+
 <p align="center">
   <i>"Every incident tells a story — I'm learning to read it before the damage is done."</i>
 </p>
