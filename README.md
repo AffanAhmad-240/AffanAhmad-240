@@ -92,7 +92,7 @@ Message and link scam classifier built with a Naive Bayes model, predicting scam
 
 ---
 
-📊 GitHub Stats
+**📊 GitHub Stats**
 <p align="center"> <img src="https://raw.githubusercontent.com/AffanAhmad-240/github-stats/refs/heads/generated/overview.svg" /> <img src="https://raw.githubusercontent.com/AffanAhmad-240/github-stats/refs/heads/generated/languages.svg" /> </p>
 
 ---
