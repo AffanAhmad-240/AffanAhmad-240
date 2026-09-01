@@ -14,13 +14,19 @@
 
 ---
 
-### 👋 About Me
-
-I'm a **Software Engineering student** at COMSATS University Islamabad (Sahiwal Campus), currently learning Cyber Security. Within the field, my main interest is in **Defensive Security / Blue Team operations**, and my goal is to build a career as an **Incident Responder**, In sha Allah.
-
+### `whoami`
+```bash
+$ cat about_me.txt
+> Name        : Affan Ahmad
+> Education   : BS Software Engineering, COMSATS University Islamabad (Sahiwal Campus)
+> CGPA        : 3.78 / 4.00
+> Focus       : Defensive Security (Blue Team)
+> Status      : Learning by day, implementing by night 🌙
+```
 ---
 
-### 🔐 Cybersecurity Skills *(Current Focus)*
+
+### 🔐 Skills
 
 <p>
 <img src="https://img.shields.io/badge/Cyber%20Security%20Basics-2E8B57?style=for-the-badge">
@@ -83,15 +89,6 @@ Message and link scam classifier built with a Naive Bayes model, predicting scam
 </td>
 </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AffanAhmad-240/github-stats/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/AffanAhmad-240/github-stats/generated/languages.svg#gh-dark-mode-only" />
-</p>
 
 ---
 
