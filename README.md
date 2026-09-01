@@ -15,7 +15,7 @@
 
 ### 👋 About Me
 
-I'm a **Software Engineering student** at COMSATS University Islamabad (Sahiwal Campus), currently in my 5th semester with a CGPA of **3.78/4.00**. I enjoy building projects, learning new technologies, and constantly improving my skills.
+I'm a **Software Engineering student** at COMSATS University Islamabad (Sahiwal Campus), currently in my 6th semester with a CGPA of **3.78/4.00**. I enjoy building projects, learning new technologies, and constantly improving my skills.
 
 ---
 
