@@ -89,8 +89,8 @@ Message and link scam classifier built with a Naive Bayes model, predicting scam
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AffanAhmad-240&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffanAhmad-240&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
+  <img src="https://github.com/AffanAhmad-240/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/AffanAhmad-240/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
 </p>
 
 ---
