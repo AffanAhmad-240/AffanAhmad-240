@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Building+a+Career+in+Defensive+Security;Blue+Team+%7C+Incident+Response+(In+Progress...)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Building+a+Career+in+Defensive+Security;Blue+Team+%7C+Incident+Responder+(In+Progress...)" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ $ cat about_me.txt
 <img src="https://img.shields.io/badge/Web%20Security%20Basics-8B0000?style=for-the-badge">
 </p>
 
-> Familiar with the basic difference between Offensive and Defensive Security — with my focus specifically on the **Defensive / Blue Team side**.
+> Familiar with the basic difference between Offensive and Defensive Security — with my focus specifically on the **Defensive / Blue Team**.
 
 ---
 
@@ -92,17 +92,6 @@ Message and link scam classifier built with a Naive Bayes model, predicting scam
 
 ---
 
-🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AffanAhmad-240/AffanAhmad-240/output/github-contribution-grid-snake-dark.svg" />
-</p>
-> ⚙️ **One-time setup needed for the snake animation above** — GitHub doesn't generate this automatically. Steps:
-> 1. In your `AffanAhmad-240` repo, go to **Settings → Actions → General** → allow "Read and write permissions"
-> 2. Create a file `.github/workflows/snake.yml` and paste the standard [Platane/snk](https://github.com/Platane/snk) action config (I can generate this file for you if you want — just say so)
-> 3. Run the action once from the **Actions** tab — it'll auto-update daily after that
----
-
-<p align="center">
   <i>"Every incident tells a story — I'm learning to read it before the damage is done."</i>
 </p>
 
